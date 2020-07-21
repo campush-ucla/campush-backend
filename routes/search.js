@@ -41,7 +41,7 @@ router.get("/clubs", async function (req, res) {
     )
     .toArray();
   if (clubs !== null) {
-    res.json(JSON.stringify(clubs));
+    res.json(clubs);
   } else {
     res.json("Not found");
   }
