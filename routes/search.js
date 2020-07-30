@@ -36,7 +36,7 @@ router.get("/clubs", async function (req, res) {
   const category = req.query.category;
   let clubs = await collection
     .find(
-      { "Category": {$regex: new RegExp(`^${category}$`, 'i')} },
+      { "Searched Category": { $regex: new RegExp(`^${category}$`, "i") } },
       { projection: { "Organization Name": 1, _id: 0 } }
     )
     .toArray();
