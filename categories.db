@@ -1,0 +1,53 @@
+{"_id":{"$oid":"5f25ca6798629ab871f45780"},"Category Name":"Academic"}
+{"_id":{"$oid":"5f25ca6798629ab871f45781"},"Category Name":"African American"}
+{"_id":{"$oid":"5f25ca6798629ab871f45782"},"Category Name":"Arts"}
+{"_id":{"$oid":"5f25ca6798629ab871f45783"},"Category Name":"Asian"}
+{"_id":{"$oid":"5f25ca6798629ab871f45784"},"Category Name":"Asian Pacific Islander"}
+{"_id":{"$oid":"5f25ca6798629ab871f45785"},"Category Name":"Business"}
+{"_id":{"$oid":"5f25ca6798629ab871f45786"},"Category Name":"Career Planning"}
+{"_id":{"$oid":"5f25ca6798629ab871f45787"},"Category Name":"Chicano/chicana"}
+{"_id":{"$oid":"5f25ca6798629ab871f45788"},"Category Name":"Christian"}
+{"_id":{"$oid":"5f25ca6798629ab871f45789"},"Category Name":"Club Sports"}
+{"_id":{"$oid":"5f25ca6798629ab871f4578a"},"Category Name":"Community Service"}
+{"_id":{"$oid":"5f25ca6798629ab871f4578b"},"Category Name":"Cultural"}
+{"_id":{"$oid":"5f25ca6798629ab871f4578c"},"Category Name":"Dance"}
+{"_id":{"$oid":"5f25ca6798629ab871f4578d"},"Category Name":"Dental"}
+{"_id":{"$oid":"5f25ca6798629ab871f4578e"},"Category Name":"Educational"}
+{"_id":{"$oid":"5f25ca6798629ab871f4578f"},"Category Name":"Engineering"}
+{"_id":{"$oid":"5f25ca6798629ab871f45790"},"Category Name":"Environmental"}
+{"_id":{"$oid":"5f25ca6798629ab871f45791"},"Category Name":"Ethnic"}
+{"_id":{"$oid":"5f25ca6798629ab871f45792"},"Category Name":"Faculty/staff"}
+{"_id":{"$oid":"5f25ca6798629ab871f45793"},"Category Name":"Film"}
+{"_id":{"$oid":"5f25ca6798629ab871f45794"},"Category Name":"Fitness"}
+{"_id":{"$oid":"5f25ca6798629ab871f45795"},"Category Name":"Greek"}
+{"_id":{"$oid":"5f25ca6798629ab871f45796"},"Category Name":"Gsa Affiliated"}
+{"_id":{"$oid":"5f25ca6798629ab871f45797"},"Category Name":"Heath And Wellness"}
+{"_id":{"$oid":"5f25ca6798629ab871f45798"},"Category Name":"Honor Societies"}
+{"_id":{"$oid":"5f25ca6798629ab871f45799"},"Category Name":"International Students"}
+{"_id":{"$oid":"5f25ca6798629ab871f4579a"},"Category Name":"Jewish"}
+{"_id":{"$oid":"5f25ca6798629ab871f4579b"},"Category Name":"Journals"}
+{"_id":{"$oid":"5f25ca6798629ab871f4579c"},"Category Name":"Latino/latina"}
+{"_id":{"$oid":"5f25ca6798629ab871f4579d"},"Category Name":"Law"}
+{"_id":{"$oid":"5f25ca6798629ab871f4579e"},"Category Name":"Leadership"}
+{"_id":{"$oid":"5f25ca6798629ab871f4579f"},"Category Name":"Lgbtqi"}
+{"_id":{"$oid":"5f25ca6798629ab871f457a0"},"Category Name":"Martial Arts"}
+{"_id":{"$oid":"5f25ca6798629ab871f457a1"},"Category Name":"Media"}
+{"_id":{"$oid":"5f25ca6798629ab871f457a2"},"Category Name":"Medical"}
+{"_id":{"$oid":"5f25ca6798629ab871f457a3"},"Category Name":"Music"}
+{"_id":{"$oid":"5f25ca6798629ab871f457a4"},"Category Name":"Muslim"}
+{"_id":{"$oid":"5f25ca6798629ab871f457a5"},"Category Name":"Out-of-state Students"}
+{"_id":{"$oid":"5f25ca6798629ab871f457a6"},"Category Name":"Political"}
+{"_id":{"$oid":"5f25ca6798629ab871f457a7"},"Category Name":"Pre-professional"}
+{"_id":{"$oid":"5f25ca6798629ab871f457a8"},"Category Name":"Recreation"}
+{"_id":{"$oid":"5f25ca6798629ab871f457a9"},"Category Name":"Religious"}
+{"_id":{"$oid":"5f25ca6798629ab871f457aa"},"Category Name":"Residential Life"}
+{"_id":{"$oid":"5f25ca6798629ab871f457ab"},"Category Name":"Self Improvement"}
+{"_id":{"$oid":"5f25ca6798629ab871f457ac"},"Category Name":"Service"}
+{"_id":{"$oid":"5f25ca6798629ab871f457ad"},"Category Name":"Social"}
+{"_id":{"$oid":"5f25ca6798629ab871f457ae"},"Category Name":"Social Activism"}
+{"_id":{"$oid":"5f25ca6798629ab871f457af"},"Category Name":"Spirit/booster"}
+{"_id":{"$oid":"5f25ca6798629ab871f457b0"},"Category Name":"Sports"}
+{"_id":{"$oid":"5f25ca6798629ab871f457b1"},"Category Name":"Student Government"}
+{"_id":{"$oid":"5f25ca6798629ab871f457b2"},"Category Name":"Technology"}
+{"_id":{"$oid":"5f25ca6798629ab871f457b3"},"Category Name":"Theater"}
+{"_id":{"$oid":"5f25ca6798629ab871f457b4"},"Category Name":"Transfer Students"}
